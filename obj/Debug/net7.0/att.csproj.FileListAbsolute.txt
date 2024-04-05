@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\GB\Git\att\bin\Debug\net7.0\att.exe
+C:\Users\user\Desktop\GB\Git\att\bin\Debug\net7.0\att.deps.json
+C:\Users\user\Desktop\GB\Git\att\bin\Debug\net7.0\att.runtimeconfig.json
+C:\Users\user\Desktop\GB\Git\att\bin\Debug\net7.0\att.dll
+C:\Users\user\Desktop\GB\Git\att\bin\Debug\net7.0\att.pdb
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\att.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\att.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\att.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\att.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\att.dll
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\refint\att.dll
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\att.pdb
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\att.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\Git\att\obj\Debug\net7.0\ref\att.dll
