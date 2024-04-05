@@ -24,7 +24,7 @@ Console.WriteLine("Веедите массив строк: ");
 
        for(int i = 0; i < StrMass.Length; i++)
        {        
-            if(StrMass[i].Length<3){
+            if(StrMass[i].Length<4){
                 //StrMass[i] = Console.WriteLine();
                 Console.Write("[" + StrMass[i] + "]");
             }
